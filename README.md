@@ -5,4 +5,5 @@ Challenge link : [Fylo](https://www.frontendmentor.io/challenges/fylo-landing-pa
 
 ## My solution
 
-[Fylo created by Sourav](https://sourav98.github.io/fylo/)
+
+<a href="https://sourav98.github.io/fylo/" target="_blank">Fylo created by Sourav</a>
